@@ -1,0 +1,41 @@
+
+.maintitle {
+    text-indent: 15%;
+    font-family: Garamond;
+    color: #364752;        
+}
+
+
+
+h2 {
+    
+    font-family: Garamond;
+    color: #364752;        
+}
+
+.indexpic {    
+    height: auto;
+    width: 400px;
+}
+
+.links {
+    text-indent: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+    color: #3a6a8a;
+    font-size: large;  
+}
+
+.pagecentering {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
